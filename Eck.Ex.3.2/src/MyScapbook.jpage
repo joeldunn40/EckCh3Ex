@@ -1,1 +1,0 @@
-The method isLetter(char) in the type Character is not applicable for the arguments (String)Character.isLetter('"')(boolean) false
